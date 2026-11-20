@@ -164,6 +164,11 @@ nav a:hover{
     color: brown;
 }
 
+.class_text{
+ display: flex;
+}
 
-
+.class_image{
+    display: flex;
+}
 /* Roman helped with comments format */
