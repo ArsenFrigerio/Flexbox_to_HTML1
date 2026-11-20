@@ -170,9 +170,11 @@ nav a:hover{
 
 .class_text{
  display: flex;
+ align-items: center;
 }
 
 .class_image{
     display: flex;
+    align-items: center;
 }
 /* Roman helped with comments format */
