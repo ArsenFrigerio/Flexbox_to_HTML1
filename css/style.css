@@ -75,6 +75,7 @@ td{
     -moz-box-shadow: -1px 22px 17px 5px rgba(0,0,0,0.79);
 }
 header{
+    display: flex;
     position: sticky;
     top: -15px;
     padding-top:10px;
