@@ -171,10 +171,12 @@ nav a:hover{
 .class_text{
  display: flex;
  align-items: center;
+ justify-content: center;
 }
 
 .class_image{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 /* Roman helped with comments format */
